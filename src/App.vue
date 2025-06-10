@@ -236,7 +236,7 @@ function startTyping() {
       </div>
     </div>
 
-    <form gap-4 un-flex="~ col" action="" method="POST">
+    <form gap-4 un-flex="~ col" action="https://formspree.io/f/xkgbjeod" method="POST">
       <div flex gap-2>
         <input id="name" type="text" placeholder="Your Name" required input-text>
         <input id="email" type="text" placeholder="Your Email" required input-text>
