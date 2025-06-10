@@ -31,7 +31,7 @@ function createFallingG(id) {
 const fallingGs = ref(Array.from({length: G_COUNT}, (_, i) => createFallingG(i)))
 
 const fullName = 'Irgi Apriana Abas.'
-const shortName = 'Irgi Apriana A.'
+const shortName = 'Irgi A.A.'
 const typedName = ref('')
 const showCursor = ref(true)
 const isMobile = ref(false)
