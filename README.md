@@ -1,6 +1,5 @@
 # ghiporto
-
-This template should help get you started developing with Vue 3 in Vite.
+I got this from someone else's project on github, and I customized it for learning purposes, if you feel familiar with the code or structure of this project, I apologize.
 
 ## Recommended IDE Setup
 
